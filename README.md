@@ -2,4 +2,4 @@
 
 This is the PyTorch implementation of the S3TF2-CAE paper (Under Review).
 
-The code will be coming soon!
+The code will be released after the paper is accepted!
